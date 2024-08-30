@@ -1,6 +1,6 @@
 In this task I shall use the dataset, Total Greenhouse Gas Emission dataset obtained from the World Bank.
 
-I shall use a Python-based visualisation tool (such as GeoPandas) to plot a set of choropleth maps representing the world
+I use a Python-based visualisation tool (such as GeoPandas) to plot a set of choropleth maps representing the world
 
 greenhouse gas emission for the years 2000 and 2010 respectively. In this Jupyter notebook (.ipynb), the following operations would be performed:
 
